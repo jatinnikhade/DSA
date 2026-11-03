@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/jatinnikhade/DSA/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/jatinnikhade/DSA/tree/master/0217-contains-duplicate) |
 | [1929-concatenation-of-array](https://github.com/jatinnikhade/DSA/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/jatinnikhade/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/jatinnikhade/DSA/tree/master/1929-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/jatinnikhade/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 <!---LeetCode Topics End-->
